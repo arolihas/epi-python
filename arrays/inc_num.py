@@ -1,4 +1,4 @@
-def increment_array(digits):
+def increment_num(digits):
     digits[-1] += 1
     inc = digits[-1]
     i = len(digits) - 1
